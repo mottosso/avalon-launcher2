@@ -14,4 +14,4 @@ It's a pure-Python GUI for the Avalon Launcher, that runs in your browser with n
 
 **What does it look like?**
 
-![untitled project](https://user-images.githubusercontent.com/2152766/46261823-f0720700-c4f0-11e8-965e-039908be5211.gif)
+![untitled project](https://user-images.githubusercontent.com/2152766/46261957-bc97e100-c4f2-11e8-9bdf-8ea1d5fd1541.gif)
